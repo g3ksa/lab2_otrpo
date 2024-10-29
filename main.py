@@ -15,4 +15,5 @@ def detect_faces(image_path):
 
 if __name__ == "__main__":
     image_path = 'image1.jpg'
+
     detect_faces(image_path)
